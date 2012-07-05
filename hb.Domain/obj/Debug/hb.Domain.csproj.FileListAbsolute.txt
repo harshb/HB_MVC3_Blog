@@ -1,0 +1,7 @@
+C:\_hbBlog\hbblog\hb.Domain\bin\Debug\MI.Domain.dll.config
+C:\_hbBlog\hbblog\hb.Domain\bin\Debug\MI.Domain.dll
+C:\_hbBlog\hbblog\hb.Domain\bin\Debug\MI.Domain.pdb
+C:\_hbBlog\hbblog\hb.Domain\bin\Debug\Dynamic.dll
+C:\_hbBlog\hbblog\hb.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\_hbBlog\hbblog\hb.Domain\obj\Debug\MI.Domain.dll
+C:\_hbBlog\hbblog\hb.Domain\obj\Debug\MI.Domain.pdb

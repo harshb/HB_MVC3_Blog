@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    @Assets.jQuery(false)
+    @Assets.jgrid("south-street")
+    @Assets.Script("knockout-2.1.0.js")
+    @Assets.CSS("bootstrap.css")
+    @Assets.CSS("hb.css")
+  
+    <link href="@Url.Action("PostFeed", "Posts")" rel="alternate" type="application/rss+xml" title="RSS feed"/>
+
+</head>
+<body>
+   
+     
+        @Html.Partial("nav")
+
+          <div id="wrap">
+            <div id="main" class="container clear-top">
+                  @RenderBody()
+            </div>
+          </div>
+
+    @Html.Partial("footer")
+
+</body>
+</html>

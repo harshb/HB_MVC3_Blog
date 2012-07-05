@@ -1,0 +1,81 @@
+C:\MI\Tab.WebUI\bin\MI.WebUI.dll
+C:\MI\Tab.WebUI\bin\MI.WebUI.pdb
+C:\MI\Tab.WebUI\bin\EntityFramework.dll
+C:\MI\Tab.WebUI\bin\MI.Domain.dll
+C:\MI\Tab.WebUI\bin\MI.Domain.pdb
+C:\MI\Tab.WebUI\bin\EntityFramework.xml
+C:\MI\Tab.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\MI\Tab.WebUI\obj\Debug\MI.WebUI.dll
+C:\MI\Tab.WebUI\obj\Debug\MI.WebUI.pdb
+C:\MI Git\Tab.WebUI\bin\MI.WebUI.dll
+C:\MI Git\Tab.WebUI\bin\MI.WebUI.pdb
+C:\MI Git\Tab.WebUI\bin\EntityFramework.dll
+C:\MI Git\Tab.WebUI\bin\MI.Domain.dll
+C:\MI Git\Tab.WebUI\bin\MI.Domain.pdb
+C:\MI Git\Tab.WebUI\bin\EntityFramework.xml
+C:\MI Git\Tab.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\MI Git\Tab.WebUI\obj\Debug\MI.WebUI.dll
+C:\MI Git\Tab.WebUI\obj\Debug\MI.WebUI.pdb
+C:\MIGit\Tab.WebUI\bin\MI.WebUI.dll
+C:\MIGit\Tab.WebUI\bin\MI.WebUI.pdb
+C:\MIGit\Tab.WebUI\bin\EntityFramework.dll
+C:\MIGit\Tab.WebUI\bin\MI.Domain.dll
+C:\MIGit\Tab.WebUI\bin\MI.Domain.pdb
+C:\MIGit\Tab.WebUI\bin\EntityFramework.xml
+C:\MIGit\Tab.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\MIGit\Tab.WebUI\obj\Debug\MI.WebUI.dll
+C:\MIGit\Tab.WebUI\obj\Debug\MI.WebUI.pdb
+C:\MIGit\MI.WebUI\bin\MI.WebUI.dll
+C:\MIGit\MI.WebUI\bin\MI.WebUI.pdb
+C:\MIGit\MI.WebUI\bin\MI.Domain.dll
+C:\MIGit\MI.WebUI\bin\MI.Domain.pdb
+C:\MIGit\MI.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\MIGit\MI.WebUI\obj\Debug\MI.WebUI.dll
+C:\MIGit\MI.WebUI\obj\Debug\MI.WebUI.pdb
+C:\MIGit\MI.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\MIGit\MI.WebUI\bin\Ninject.dll
+C:\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.dll
+C:\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.dll
+C:\MIGit\MI.WebUI\bin\WebActivator.dll
+C:\MIGit\MI.WebUI\bin\Ninject.pdb
+C:\MIGit\MI.WebUI\bin\Ninject.xml
+C:\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.pdb
+C:\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.xml
+C:\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.xml
+C:\_hbSamples\MIGit\MI.WebUI\bin\MI.WebUI.dll
+C:\_hbSamples\MIGit\MI.WebUI\bin\MI.WebUI.pdb
+C:\_hbSamples\MIGit\MI.WebUI\bin\MI.Domain.dll
+C:\_hbSamples\MIGit\MI.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.dll
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.dll
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.dll
+C:\_hbSamples\MIGit\MI.WebUI\bin\WebActivator.dll
+C:\_hbSamples\MIGit\MI.WebUI\bin\MI.Domain.pdb
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.pdb
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.xml
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.pdb
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.xml
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\_hbSamples\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.xml
+C:\_hbSamples\MIGit\MI.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\_hbSamples\MIGit\MI.WebUI\obj\Debug\MI.WebUI.dll
+C:\_hbSamples\MIGit\MI.WebUI\obj\Debug\MI.WebUI.pdb
+C:\_hbBlog\MIGit\MI.WebUI\bin\MI.WebUI.dll
+C:\_hbBlog\MIGit\MI.WebUI\bin\MI.WebUI.pdb
+C:\_hbBlog\MIGit\MI.WebUI\bin\MI.Domain.dll
+C:\_hbBlog\MIGit\MI.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.dll
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.dll
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.dll
+C:\_hbBlog\MIGit\MI.WebUI\bin\WebActivator.dll
+C:\_hbBlog\MIGit\MI.WebUI\bin\MI.Domain.pdb
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.pdb
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.xml
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.pdb
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.Extensions.Conventions.xml
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\_hbBlog\MIGit\MI.WebUI\bin\Ninject.Web.Mvc.xml
+C:\_hbBlog\MIGit\MI.WebUI\obj\Debug\ResolveAssemblyReference.cache
+C:\_hbBlog\MIGit\MI.WebUI\obj\Debug\MI.WebUI.dll
+C:\_hbBlog\MIGit\MI.WebUI\obj\Debug\MI.WebUI.pdb
