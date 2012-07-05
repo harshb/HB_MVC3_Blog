@@ -1,0 +1,25 @@
+Global setup:
+
+ Set up git
+  git config --global user.name "Harsh Bhasin"
+  git config --global user.email hersh_b@yahoo.com
+      
+
+Next steps:
+
+  mkdir HB_MVC3_Blog
+  cd HB_MVC3_Blog
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin https://github.com/harshb/HB_MVC3_Blog.git
+  git push -u origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin https://github.com/harshb/HB_MVC3_Blog.git
+  git push -u origin master
+      
